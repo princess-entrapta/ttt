@@ -1,6 +1,6 @@
 {
   "vaultName": "TTT Rules",
-  "lastExport": 1725021871026,
+  "lastExport": 1725058109140,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -71,12 +71,12 @@
     "Equipment/Battle Consumables.md",
     "Equipment/Bonus Equipment.md",
     "Equipment/Weapons.md",
-    "Character.md",
+    "Character Creation.md",
     "Core Principles.md",
     "Dice Rolling.md",
     "Equipment.md",
-    "Game Guests.md",
-    "Game Host.md",
+    "Game Master.md",
+    "Glossary.md",
     "Players.md",
     "Revival.md",
     "TTT Rules.md",
@@ -102,6 +102,7 @@
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
+    "combat/rounds-1.png",
     "combat/entranched-1.png",
     "combat/obstruction-1.png"
   ],
@@ -130,196 +131,196 @@
   ],
   "fileInfo": {
     "Combat/Abilities/Ability Negation.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 101,
       "exportedPath": "combat/abilities/ability-negation.html",
       "dependencies": []
     },
     "Combat/Abilities/Aerial Strike.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 204,
       "exportedPath": "combat/abilities/aerial-strike.html",
       "dependencies": []
     },
     "Combat/Abilities/Alter Terrain.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 346,
       "exportedPath": "combat/abilities/alter-terrain.html",
       "dependencies": []
     },
     "Combat/Abilities/Barrier.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 155,
       "exportedPath": "combat/abilities/barrier.html",
       "dependencies": []
     },
     "Combat/Abilities/Blink.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 84,
       "exportedPath": "combat/abilities/blink.html",
       "dependencies": []
     },
     "Combat/Abilities/Bouncing Bolt.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 284,
       "exportedPath": "combat/abilities/bouncing-bolt.html",
       "dependencies": []
     },
     "Combat/Abilities/Charge.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 146,
       "exportedPath": "combat/abilities/charge.html",
       "dependencies": []
     },
     "Combat/Abilities/Clairvoyance.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 91,
       "exportedPath": "combat/abilities/clairvoyance.html",
       "dependencies": []
     },
     "Combat/Abilities/Concussion.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 112,
       "exportedPath": "combat/abilities/concussion.html",
       "dependencies": []
     },
     "Combat/Abilities/Delayed Explosion.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 164,
       "exportedPath": "combat/abilities/delayed-explosion.html",
       "dependencies": []
     },
     "Combat/Abilities/Double Attack.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 79,
       "exportedPath": "combat/abilities/double-attack.html",
       "dependencies": []
     },
     "Combat/Abilities/Empower Strike.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 90,
       "exportedPath": "combat/abilities/empower-strike.html",
       "dependencies": []
     },
     "Combat/Abilities/Fog.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 302,
       "exportedPath": "combat/abilities/fog.html",
       "dependencies": []
     },
     "Combat/Abilities/Gain Action.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 65,
       "exportedPath": "combat/abilities/gain-action.html",
       "dependencies": []
     },
     "Combat/Abilities/Hideout.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 108,
       "exportedPath": "combat/abilities/hideout.html",
       "dependencies": []
     },
     "Combat/Abilities/Mirror Image.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 195,
       "exportedPath": "combat/abilities/mirror-image.html",
       "dependencies": []
     },
     "Combat/Abilities/Parry.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 137,
       "exportedPath": "combat/abilities/parry.html",
       "dependencies": []
     },
     "Combat/Abilities/Pull.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 230,
       "exportedPath": "combat/abilities/pull.html",
       "dependencies": []
     },
     "Combat/Abilities/Push.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 216,
       "exportedPath": "combat/abilities/push.html",
       "dependencies": []
     },
     "Combat/Abilities/Sapping Strike.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 158,
       "exportedPath": "combat/abilities/sapping-strike.html",
       "dependencies": []
     },
     "Combat/Abilities/Snare Trap.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 251,
       "exportedPath": "combat/abilities/snare-trap.html",
       "dependencies": []
     },
     "Combat/Abilities/Stealth.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 246,
       "exportedPath": "combat/abilities/stealth.html",
       "dependencies": []
     },
     "Combat/Abilities/Summon.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 329,
       "exportedPath": "combat/abilities/summon.html",
       "dependencies": []
     },
     "Combat/Abilities/Taunt.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 132,
       "exportedPath": "combat/abilities/taunt.html",
       "dependencies": []
     },
     "Combat/Abilities/Tornado.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 256,
       "exportedPath": "combat/abilities/tornado.html",
       "dependencies": []
     },
     "Combat/Abilities/Transfer SP.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 51,
       "exportedPath": "combat/abilities/transfer-sp.html",
       "dependencies": []
     },
     "Combat/Abilities.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 561,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 579,
       "exportedPath": "combat/abilities.html",
       "dependencies": []
     },
     "Combat/Core Combat Mechanics.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 4925,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 5165,
       "exportedPath": "combat/core-combat-mechanics.html",
       "dependencies": [
         "combat/rounds-1.png"
       ]
     },
     "Combat/Cover.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 1868,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 1880,
       "exportedPath": "combat/cover.html",
       "dependencies": []
     },
     "Combat/Entranched-1.png": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 8757,
       "exportedPath": "combat/entranched-1.png",
       "dependencies": []
     },
     "Combat/Obstruction-1.png": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 11421,
       "exportedPath": "combat/obstruction-1.png",
       "dependencies": []
     },
     "Combat/Terrain features.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 2338,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 2342,
       "exportedPath": "combat/terrain-features.html",
       "dependencies": [
         "combat/entranched-1.png",
@@ -327,405 +328,405 @@
       ]
     },
     "Equipment/Armors/Heavy armor, def variant.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 6,
       "exportedPath": "equipment/armors/heavy-armor,-def-variant.html",
       "dependencies": []
     },
     "Equipment/Armors/Heavy armor, hp variant.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 30,
       "exportedPath": "equipment/armors/heavy-armor,-hp-variant.html",
       "dependencies": []
     },
     "Equipment/Armors/Heavy armor, reduction variant.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 42,
       "exportedPath": "equipment/armors/heavy-armor,-reduction-variant.html",
       "dependencies": []
     },
     "Equipment/Armors/Heavy armor, tenacity variant.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 30,
       "exportedPath": "equipment/armors/heavy-armor,-tenacity-variant.html",
       "dependencies": []
     },
     "Equipment/Armors/Light armor, Accuracy Enhancement.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 12,
       "exportedPath": "equipment/armors/light-armor,-accuracy-enhancement.html",
       "dependencies": []
     },
     "Equipment/Armors/Light armor, def variant.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 6,
       "exportedPath": "equipment/armors/light-armor,-def-variant.html",
       "dependencies": []
     },
     "Equipment/Armors/Light armor, hp variant.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 27,
       "exportedPath": "equipment/armors/light-armor,-hp-variant.html",
       "dependencies": []
     },
     "Equipment/Armors/Light armor, Special Points Enhancement.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 12,
       "exportedPath": "equipment/armors/light-armor,-special-points-enhancement.html",
       "dependencies": []
     },
     "Equipment/Armors/Light armor, tenacity variant.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 18,
       "exportedPath": "equipment/armors/light-armor,-tenacity-variant.html",
       "dependencies": []
     },
     "Equipment/Battle Consumables/Ability Consumable.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 140,
       "exportedPath": "equipment/battle-consumables/ability-consumable.html",
       "dependencies": []
     },
     "Equipment/Battle Consumables/Instant Heal.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 82,
       "exportedPath": "equipment/battle-consumables/instant-heal.html",
       "dependencies": []
     },
     "Equipment/Battle Consumables/SP Replenish.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 61,
       "exportedPath": "equipment/battle-consumables/sp-replenish.html",
       "dependencies": []
     },
     "Equipment/Bonus Equipment/Attack Bonus.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 0,
       "exportedPath": "equipment/bonus-equipment/attack-bonus.html",
       "dependencies": []
     },
     "Equipment/Bonus Equipment/Def Bonus.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 13,
       "exportedPath": "equipment/bonus-equipment/def-bonus.html",
       "dependencies": []
     },
     "Equipment/Bonus Equipment/Health Strong Bonus.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 12,
       "exportedPath": "equipment/bonus-equipment/health-strong-bonus.html",
       "dependencies": []
     },
     "Equipment/Bonus Equipment/SP Strong Bonus.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 12,
       "exportedPath": "equipment/bonus-equipment/sp-strong-bonus.html",
       "dependencies": []
     },
     "Equipment/Bonus Equipment/Weapon Damage Strong Bonus.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 16,
       "exportedPath": "equipment/bonus-equipment/weapon-damage-strong-bonus.html",
       "dependencies": []
     },
     "Equipment/Weapons/Cleaving Melee.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 110,
       "exportedPath": "equipment/weapons/cleaving-melee.html",
       "dependencies": []
     },
     "Equipment/Weapons/Heavy Melee Single Handed.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 87,
       "exportedPath": "equipment/weapons/heavy-melee-single-handed.html",
       "dependencies": []
     },
     "Equipment/Weapons/Heavy Melee Two Handed.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 59,
       "exportedPath": "equipment/weapons/heavy-melee-two-handed.html",
       "dependencies": []
     },
     "Equipment/Weapons/Heavy Ranged Focused.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 153,
       "exportedPath": "equipment/weapons/heavy-ranged-focused.html",
       "dependencies": []
     },
     "Equipment/Weapons/Heavy Reload.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 118,
       "exportedPath": "equipment/weapons/heavy-reload.html",
       "dependencies": []
     },
     "Equipment/Weapons/High Range Single Handed.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 123,
       "exportedPath": "equipment/weapons/high-range-single-handed.html",
       "dependencies": []
     },
     "Equipment/Weapons/Light Melee Single Handed.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 181,
       "exportedPath": "equipment/weapons/light-melee-single-handed.html",
       "dependencies": []
     },
     "Equipment/Weapons/Light Ranged Focused.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 135,
       "exportedPath": "equipment/weapons/light-ranged-focused.html",
       "dependencies": []
     },
     "Equipment/Weapons/Ranged Splash.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 112,
       "exportedPath": "equipment/weapons/ranged-splash.html",
       "dependencies": []
     },
     "Equipment/Weapons/Shield.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 161,
       "exportedPath": "equipment/weapons/shield.html",
       "dependencies": []
     },
     "Equipment/Weapons/Short Ranged.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 90,
       "exportedPath": "equipment/weapons/short-ranged.html",
       "dependencies": []
     },
     "Equipment/Armors.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 441,
       "exportedPath": "equipment/armors.html",
       "dependencies": []
     },
     "Equipment/Battle Consumables.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 982,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 1038,
       "exportedPath": "equipment/battle-consumables.html",
       "dependencies": []
     },
     "Equipment/Bonus Equipment.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 1336,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 1354,
       "exportedPath": "equipment/bonus-equipment.html",
       "dependencies": []
     },
     "Equipment/Weapons.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 617,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 581,
       "exportedPath": "equipment/weapons.html",
       "dependencies": []
     },
-    "Character.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 2321,
-      "exportedPath": "character.html",
-      "dependencies": []
-    },
     "Core Principles.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 3107,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 3115,
       "exportedPath": "core-principles.html",
       "dependencies": []
     },
     "Dice Rolling.md": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 1343,
       "exportedPath": "dice-rolling.html",
       "dependencies": []
     },
     "Equipment.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 632,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 650,
       "exportedPath": "equipment.html",
       "dependencies": []
     },
-    "Game Guests.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 287,
-      "exportedPath": "game-guests.html",
-      "dependencies": []
-    },
-    "Game Host.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 2825,
-      "exportedPath": "game-host.html",
-      "dependencies": []
-    },
     "Players.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 216,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 0,
       "exportedPath": "players.html",
       "dependencies": []
     },
     "Revival.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 2966,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 3171,
       "exportedPath": "revival.html",
       "dependencies": []
     },
     "TTT Rules.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 527,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 539,
       "exportedPath": "ttt-rules.html",
       "dependencies": []
     },
     "World Interaction.md": {
-      "modifiedTime": 1725021871026,
-      "sourceSize": 5624,
+      "modifiedTime": 1725058109140,
+      "sourceSize": 5563,
       "exportedPath": "world-interaction.html",
       "dependencies": []
     },
     "combat/entranched-1.png": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 8757,
       "exportedPath": "combat/entranched-1.png",
       "dependencies": []
     },
     "combat/obstruction-1.png": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 11421,
       "exportedPath": "combat/obstruction-1.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Combat/Rounds-1.png": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 23816,
       "exportedPath": "combat/rounds-1.png",
       "dependencies": []
     },
     "combat/rounds-1.png": {
-      "modifiedTime": 1725021871026,
+      "modifiedTime": 1725058109140,
       "sourceSize": 23816,
       "exportedPath": "combat/rounds-1.png",
+      "dependencies": []
+    },
+    "Character Creation.md": {
+      "modifiedTime": 1725058109140,
+      "sourceSize": 3170,
+      "exportedPath": "character-creation.html",
+      "dependencies": []
+    },
+    "Game Master.md": {
+      "modifiedTime": 1725058109140,
+      "sourceSize": 2775,
+      "exportedPath": "game-master.html",
+      "dependencies": []
+    },
+    "Glossary.md": {
+      "modifiedTime": 1725058109140,
+      "sourceSize": 533,
+      "exportedPath": "glossary.html",
       "dependencies": []
     }
   }
